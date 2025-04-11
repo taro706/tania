@@ -1,4 +1,4 @@
-leon
-tigre 
+rojo leon
+verde tigre 
 leopardo
 tortuga

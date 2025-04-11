@@ -1,4 +1,5 @@
 rojo leon
 verde tigre 
-leopardo
-tortuga
+amarillo leopardo
+rosa tortuga
+

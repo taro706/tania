@@ -1,3 +1,8 @@
 Este es un archivo creado por Colaborador A
 Este archivo fue modificado por el administrador del repositorio
+<<<<<<< HEAD
 Archivo modificado otra vez por colaboradorA
+=======
+Se ha modificado por 3ra vez.
+commit 4t vez
+>>>>>>> 0942425418f5129ff46635bfd244dd58297f9f8a
